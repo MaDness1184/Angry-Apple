@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: c6895b35eba90234da9c214acaf38bf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 312834696174150172
+    second: Angry Apple Left Sheet_0
+  - first:
+      213: -8037172968546668816
+    second: Angry Apple Left Sheet_1
+  - first:
+      213: 7528717113661838148
+    second: Angry Apple Left Sheet_2
+  - first:
+      213: -4621716845138647551
+    second: Angry Apple Left Sheet_3
+  - first:
+      213: 7607662903857424008
+    second: Angry Apple Left Sheet_4
+  - first:
+      213: 4953693731644691884
+    second: Angry Apple Left Sheet_5
+  - first:
+      213: 4341804964104512742
+    second: Angry Apple Left Sheet_6
+  - first:
+      213: -7735147118965183470
+    second: Angry Apple Left Sheet_7
+  - first:
+      213: -4146444513602182562
+    second: Angry Apple Left Sheet_8
+  - first:
+      213: -5633583838599121619
+    second: Angry Apple Left Sheet_9
+  - first:
+      213: -4381306395751161147
+    second: Angry Apple Left Sheet_10
+  - first:
+      213: -8813434802659698228
+    second: Angry Apple Left Sheet_11
+  - first:
+      213: 4619740785164643683
+    second: Angry Apple Left Sheet_12
+  - first:
+      213: -1763179386226247349
+    second: Angry Apple Left Sheet_13
+  - first:
+      213: 4349716654903740052
+    second: Angry Apple Left Sheet_14
+  - first:
+      213: -6989005428329676878
+    second: Angry Apple Left Sheet_15
+  - first:
+      213: 272073402203327067
+    second: Angry Apple Left Sheet_16
+  - first:
+      213: -5890088939105636977
+    second: Angry Apple Left Sheet_17
+  - first:
+      213: -514856390415799009
+    second: Angry Apple Left Sheet_18
+  - first:
+      213: -1081173161291012637
+    second: Angry Apple Left Sheet_19
+  - first:
+      213: 4278695895611029411
+    second: Angry Apple Left Sheet_20
+  - first:
+      213: 6593899176501364991
+    second: Angry Apple Left Sheet_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620350ec01492d747814ab0bfd270e2f
+      internalID: 312834696174150172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b80b2d8cfdf024d919fa76cdf59f16
+      internalID: -8037172968546668816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82831c9472bb3848b7c041337c9859b
+      internalID: 7528717113661838148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5fe7ff8d9fcd246990e5f285abd078
+      internalID: -4621716845138647551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d6e538ddfbfa41a7fe9e42ec33192
+      internalID: 7607662903857424008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279a15ef49a4444f8b97c40c4048ea6
+      internalID: 4953693731644691884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f789a906aa8d04ea54f3d8ab628e8b
+      internalID: 4341804964104512742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749fa5b531e33194ba981006241ad985
+      internalID: -7735147118965183470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278756f96d52efc40bf7b00b748c5165
+      internalID: -4146444513602182562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfbdc3415a96c489315cd63ad63f3e
+      internalID: -5633583838599121619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dceb3d19cba44e4282c0f3618abb76f
+      internalID: -4381306395751161147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa369e442a326842a8a1f103144e02c
+      internalID: -8813434802659698228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a7f0a7ab8d75447a6ea9699607dda8
+      internalID: 4619740785164643683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c3a1d5d62d4a479938c8c0fa69531
+      internalID: -1763179386226247349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e992b2aa1e684ab9b1d445808c10e
+      internalID: 4349716654903740052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3333e2cec3ef994f9b984543d0cdd2e
+      internalID: -6989005428329676878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564a80255eda45945b5e8bbdd2e1f653
+      internalID: 272073402203327067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9c9515b07f664e9d305a09567268b
+      internalID: -5890088939105636977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adda7fa0ca7a194aa702f49d5d15ddb
+      internalID: -514856390415799009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d320c59e4bfa4d8a9a375422c4dd5
+      internalID: -1081173161291012637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103129d9d8a6aa944ab70ce063ef7956
+      internalID: 4278695895611029411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angry Apple Left Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0818a785fd4dc64da916112c3ac6c41
+      internalID: 6593899176501364991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

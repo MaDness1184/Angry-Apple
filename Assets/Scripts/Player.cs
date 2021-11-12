@@ -91,9 +91,9 @@ public class Player : MonoBehaviour
 
     private void Run()
     {
-        float controlThrow = CrossPlatformInputManager.GetAxisRaw("Horizontal") * walkSpeed;
-        Vector2 playerVelocity = new Vector2(controlThrow, myRigidbody.velocity.y);
-        myRigidbody.velocity = playerVelocity;
+        float controlThrow = CrossPlatformInputManager.GetAxisRaw("Horizontal") * walkSpeed; //Return -1, 1, or 0
+        Vector2 playerVelocity = new Vector2(controlThrow, myRigidbody.velocity.y); // Vector2(control throw, y-velocity)
+        myRigidbody.velocity = playerVelocity; // update myRigedbody velocity
 
         bool playerHasHorizontalSpeed = Mathf.Abs(myRigidbody.velocity.x) > Mathf.Epsilon;
         float direction = Mathf.Sign(myRigidbody.velocity.x); // returns a value that is between -1 to +1
